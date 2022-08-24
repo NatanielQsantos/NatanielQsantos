@@ -1,0 +1,9 @@
+- 🖖 Olá me chamo Nataniel, tenho 18 anos ...
+- 👀 Estou a procura de novos conhecimento...
+- 👊 Ainda estou estudando para consguir ingressar na carreira de ADS...
+
+
+<!---
+NatanielQsantos/NatanielQsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
